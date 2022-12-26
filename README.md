@@ -29,3 +29,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+ 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
